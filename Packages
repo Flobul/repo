@@ -1,1 +1,60 @@
 
+Package: com.flobul.batterydata
+Name: batterydata
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Prints battery data from IOKit
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Author: Flobul <flobul.jeedom@gmail.com> <flobul.jeedom@gmail.com>
+Section: System
+Depends: 
+Filename: /debs/com.flobul.batterydata_0.1.0_iphoneos-arm.deb	
+Size: 7718
+MD5sum: b23f3cb240760fec419bdcded52600c3
+SHA1: 85542d68886b53bcf6e195fb0b7c563b0f38cd7d
+SHA256: dd8866904d99bb597a151bf759186d6921bff0cb6bd4e4d94ae1bc40d71556dc
+
+Package: com.flobul.say
+Name: uitools
+Version: 0.1.14
+Architecture: iphoneos-arm
+Description: Command line tools to TTS with iOS
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Author: Flobul <flobul.jeedom@gmail.com> <flobul.jeedom@gmail.com>
+Section: System
+Depends: 
+Filename: /debs/com.flobul.say_0.1.14_iphoneos-arm.deb
+Size: 33404
+MD5sum: a9a3ad443f0875bc5a0a0ae2bedc1da6
+SHA1: 2bb818940b0018d9e48f317f9d51a6d53149bc77
+SHA256: d0f1972f694761abea256323279f4464f753e54b67562de36adacfc5a533c643
+
+Package: com.flobul.lightsensor
+Name: lightsensor
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Read values from ambient light sensor 
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Author: Flobul <flobul.jeedom@gmail.com> <flobul.jeedom@gmail.com>
+Section: System
+Depends: 
+Filename: /debs/com.flobul.lightsensor_0.1.0_iphoneos-arm.deb	
+Size: 5796
+MD5sum: 48e666f5f6c3d83cbb23e5d5d35c476f
+SHA1: fc89e8fc4c2034a4b5ddcd06ec83aed3ade7693b
+SHA256: f075154ae94ead7955ed1996d7d72c8eb89f3d4f5ca2bb897ae17bf78af96e80
+
+Package: com.flobul.sensors
+Name: sensors
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Read values from thermal sensors, voltage meters, and current meters on iPhone/iPad
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Author: Flobul <flobul.jeedom@gmail.com>
+Section: System
+Depends: 
+Filename: /debs/com.flobul.sensors_0.1.0_iphoneos-arm.deb	
+Size: 7682
+MD5sum: 42846c289f27080750cd7fff3feca3dd
+SHA1: d83cfec7416682a6c3b40304116f20eb0e91a24a
+SHA256: 46d9327b01235f4312457d6e30f87bc1fcfb1ee9f66bfa57beb3162ce911b663
