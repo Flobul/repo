@@ -7,7 +7,6 @@ Description: Prints battery data from IOKit
 Maintainer: Flobul <flobul.jeedom@gmail.com>
 Author: Flobul <flobul.jeedom@gmail.com> <flobul.jeedom@gmail.com>
 Section: System
-Depends: 
 Filename: /debs/com.flobul.batterydata_0.1.0_iphoneos-arm.deb	
 Size: 7718
 MD5sum: b23f3cb240760fec419bdcded52600c3
@@ -22,7 +21,6 @@ Description: Command line tools to TTS with iOS
 Maintainer: Flobul <flobul.jeedom@gmail.com>
 Author: Flobul <flobul.jeedom@gmail.com> <flobul.jeedom@gmail.com>
 Section: System
-Depends: 
 Filename: /debs/com.flobul.say_0.1.14_iphoneos-arm.deb
 Size: 33404
 MD5sum: a9a3ad443f0875bc5a0a0ae2bedc1da6
@@ -37,7 +35,6 @@ Description: Read values from ambient light sensor
 Maintainer: Flobul <flobul.jeedom@gmail.com>
 Author: Flobul <flobul.jeedom@gmail.com> <flobul.jeedom@gmail.com>
 Section: System
-Depends: 
 Filename: /debs/com.flobul.lightsensor_0.1.0_iphoneos-arm.deb	
 Size: 5796
 MD5sum: 48e666f5f6c3d83cbb23e5d5d35c476f
@@ -52,7 +49,6 @@ Description: Read values from thermal sensors, voltage meters, and current meter
 Maintainer: Flobul <flobul.jeedom@gmail.com>
 Author: Flobul <flobul.jeedom@gmail.com>
 Section: System
-Depends: 
 Filename: /debs/com.flobul.sensors_0.1.0_iphoneos-arm.deb	
 Size: 7682
 MD5sum: 42846c289f27080750cd7fff3feca3dd
