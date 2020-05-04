@@ -5,7 +5,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Description: Prints battery data from IOKit
 Maintainer: Flobul <flobul.jeedom@gmail.com>
-Author: Flobul <flobul.jeedom@gmail.com> <flobul.jeedom@gmail.com>
+Author: Flobul <flobul.jeedom@gmail.com>
 Section: System
 Filename: /debs/com.flobul.batterydata_0.1.0_iphoneos-arm.deb	
 Size: 7718
@@ -15,17 +15,17 @@ SHA256: dd8866904d99bb597a151bf759186d6921bff0cb6bd4e4d94ae1bc40d71556dc
 
 Package: com.flobul.say
 Name: say
-Version: 0.1.14
+Version: 0.1.15
 Architecture: iphoneos-arm
 Description: Command line tools to TTS with iOS
 Maintainer: Flobul <flobul.jeedom@gmail.com>
-Author: Flobul <flobul.jeedom@gmail.com> <flobul.jeedom@gmail.com>
+Author: Flobul <flobul.jeedom@gmail.com>
 Section: System
-Filename: /debs/com.flobul.say_0.1.14_iphoneos-arm.deb
-Size: 33404
-MD5sum: a9a3ad443f0875bc5a0a0ae2bedc1da6
-SHA1: 2bb818940b0018d9e48f317f9d51a6d53149bc77
-SHA256: d0f1972f694761abea256323279f4464f753e54b67562de36adacfc5a533c643
+Filename: /debs/com.flobul.say_0.1.15_iphoneos-arm.deb
+Size: 13728
+MD5sum: 6d6ee36f9003f21d9e90519dc2e2ffaa
+SHA1: f4e52ef973b606519494fb8b0e118f66873e4731
+SHA256: d864948cb6ee69a12fc3e7359747fe5dbed4b97d21ea3a3c5c09f97a1d84e889
 
 Package: com.flobul.lightsensor
 Name: lightsensor
@@ -33,7 +33,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Description: Read values from ambient light sensor 
 Maintainer: Flobul <flobul.jeedom@gmail.com>
-Author: Flobul <flobul.jeedom@gmail.com> <flobul.jeedom@gmail.com>
+Author: Flobul <flobul.jeedom@gmail.com>
 Section: System
 Filename: /debs/com.flobul.lightsensor_0.1.0_iphoneos-arm.deb	
 Size: 5796
