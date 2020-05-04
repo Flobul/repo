@@ -14,7 +14,7 @@ SHA1: 85542d68886b53bcf6e195fb0b7c563b0f38cd7d
 SHA256: dd8866904d99bb597a151bf759186d6921bff0cb6bd4e4d94ae1bc40d71556dc
 
 Package: com.flobul.say
-Name: uitools
+Name: say
 Version: 0.1.14
 Architecture: iphoneos-arm
 Description: Command line tools to TTS with iOS
