@@ -14,6 +14,22 @@ Tag: role::hacker
 Author: Flobul
 Name: batterydata
 
+Package: com.flobul.gpsloc
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Installed-Size: 200
+Filename: debs/com.flobul.gpsloc_1.0.1_iphoneos-arm.deb
+Size: 11096
+MD5sum: 565943319bec4ef859736d1431b9c196
+SHA1: b77781e9b74d84ee11ee269194c93192751a339a
+SHA256: 14c71bf144c6d42db244b0277df18a44eeada1914e94e07f5f2da32274e48609
+Section: System
+Description: Simple CLI utility to get GPS coordinates
+Tag: role::hacker
+Author: Flobul <flobul.jeedom@gmail.com>
+Name: gpsloc
+
 Package: com.flobul.lightsensor
 Version: 0.1.0-1+debug
 Architecture: iphoneos-arm
