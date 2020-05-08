@@ -52,10 +52,10 @@ Architecture: iphoneos-arm
 Maintainer: Flobul
 Installed-Size: 260
 Filename: debs/com.flobul.say_0.1.15_iphoneos-arm.deb
-Size: 33064
-MD5sum: bb35290573f16ef040d7e7f1fe567944
-SHA1: 1d40c61a871f4cce7d5f30ca0b35ea4bdfb9c6c5
-SHA256: 2cbb960028ed429bd1795aa52eecd6a6d4f2ef5cd343e95c589882633b3878ea
+Size: 32782
+MD5sum: 474f9af9555ec81cf9d7738312355da1
+SHA1: 447e26de8581095cdb55319b12706b783092fc0d
+SHA256: 4c72f48bb69a6a6b6a808cad89e12504540cebdaf3e5f42a4b6723b448e53a9e
 Section: Utilities
 Description: Command line tools to TTS with iOS
 Tag: role::hacker
