@@ -78,3 +78,19 @@ Tag: role::hacker
 Author: Flobul
 Name: sensors
 
+Package: com.flobul.smsme
+Version: 0.1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Installed-Size: 300
+Depends: mobilesubstrate
+Filename: debs/com.flobul.smsme_0.1.0_iphoneos-arm.deb
+Size: 5428
+MD5sum: 661b1922f596470ac8639dfdd85d2527
+SHA1: 29673383540a530db092fa7fa465ced814301095
+SHA256: d9b4503bda457767848fa673736174b5699f1fd041dda86f5adb19d3d550a2e5
+Section: System
+Description: A command line tool to send an SMS text message.
+Author: Flobul
+Name: smsme
+
