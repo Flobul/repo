@@ -46,6 +46,22 @@ Tag: role::hacker
 Author: Flobul
 Name: lightsensor
 
+Package: com.flobul.notifyme
+Version: 0.1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: debs/com.flobul.notifyme_0.1.0_iphoneos-arm.deb
+Size: 5736
+MD5sum: 1a7bed262ff6f34221f6e7c19ca05cfc
+SHA1: 6a914ad885bfda5104e9a011bb988ca2aa36a1a8
+SHA256: e7b1339774f65f5e78af3a1cbe1b42c40ffd25c2dba910e45119ee6f55f46a2a
+Section: System
+Description: A command line tool to send notifications.
+Author: Flobul
+Name: notifyme
+
 Package: com.flobul.say
 Version: 0.1.15
 Architecture: iphoneos-arm
