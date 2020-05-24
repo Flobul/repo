@@ -63,14 +63,14 @@ Author: Flobul
 Name: notifyme
 
 Package: com.flobul.say
-Version: 0.2
+Version: 0.2.1
 Architecture: iphoneos-arm
 Installed-Size: 200
-Filename: debs/com.flobul.say_0.2_iphoneos-arm.deb
-Size: 12926
-MD5sum: ee271dee7e564bd62051694155bab6bc
-SHA1: 14128622ea805dc2c3bc832a255257404b689dd2
-SHA256: 0200f537a1825bf82b954a29a870f40c9e154645dd44ab626b338badaa660645
+Filename: debs/com.flobul.say_0.2.1_iphoneos-arm.deb
+Size: 12892
+MD5sum: a60efbfdc530185ad134370eaf1646aa
+SHA1: 17b55266c064eac54a93447d7dac79779f78937c
+SHA256: 3ca545fcdfd96027faaa8c2f211bc44796220801e20f8049ee9c0cd50fd51b0a
 Section: Utilities
 Description: Command line tools to TTS with iOS
 Tag: role::hacker
