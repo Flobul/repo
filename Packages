@@ -67,15 +67,15 @@ Version: 0.2.1
 Architecture: iphoneos-arm
 Installed-Size: 200
 Filename: debs/com.flobul.say_0.2.1_iphoneos-arm.deb
-Size: 12892
-MD5sum: a60efbfdc530185ad134370eaf1646aa
-SHA1: 17b55266c064eac54a93447d7dac79779f78937c
-SHA256: 3ca545fcdfd96027faaa8c2f211bc44796220801e20f8049ee9c0cd50fd51b0a
+Size: 12888
+MD5sum: 033af4555369a540717f33ea9e4702ef
+SHA1: 7252aabf6a56f7cdef33964b3c2b8bf6f430c5ad
+SHA256: 2b5b16aa68d6180c22f3c7537f1c6420ecd713e4a3c09a192d82a28dd5e5c1a7
 Section: Utilities
 Description: Command line tools to TTS with iOS
 Tag: role::hacker
 Author: Flobul
-Name: uitools
+Name: say
 
 Package: com.flobul.sensors
 Version: 0.1.0-2+debug
