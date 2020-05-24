@@ -47,20 +47,36 @@ Author: Flobul
 Name: lightsensor
 
 Package: com.flobul.notifyme
-Version: 0.1.0-1+debug
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: Flobul <flobul.jeedom@gmail.com>
 Installed-Size: 196
 Depends: mobilesubstrate
-Filename: debs/com.flobul.notifyme_0.1.0_iphoneos-arm.deb
-Size: 5736
-MD5sum: 1a7bed262ff6f34221f6e7c19ca05cfc
-SHA1: 6a914ad885bfda5104e9a011bb988ca2aa36a1a8
-SHA256: e7b1339774f65f5e78af3a1cbe1b42c40ffd25c2dba910e45119ee6f55f46a2a
+Filename: debs/com.flobul.notifyme_0.1.1_iphoneos-arm.deb
+Size: 5140
+MD5sum: 2f479ed4d1c9aec81e4176a4064fe47f
+SHA1: d02697ad7baeb28607eb7fff6b685be87d59240d
+SHA256: d859965192671b443a84f2f2f29c038b9ed57d9157def8cb619715faaf954f72
 Section: System
 Description: A command line tool to send notifications.
-Author: Flobul
+Author: Flobul <flobul.jeedom@gmail.com>
 Name: notifyme
+
+Package: com.flobul.publicationme
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: debs/com.flobul.publicationme_0.1.0_iphoneos-arm.deb
+Size: 10172
+MD5sum: c52c422e192809cba2282d2dac74a90f
+SHA1: 8691c5ae25f54836956890fa9e9a2eaf22d4ea63
+SHA256: 7e9acfcdd03448184058cce851e5c9c376047a0afd92cdb69a4dad43afcb1ae9
+Section: Tweaks
+Description: Send publication notifications from the command line
+Author: Flobul <flobul.jeedom@gmail.com>
+Name: PublicationForMe
 
 Package: com.flobul.say
 Version: 0.2.1
