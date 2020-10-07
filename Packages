@@ -1,3 +1,19 @@
+Package: com.artikus.playcli
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: debs/com.artikus.playcli_1.0.2_iphoneos-arm.deb
+Size: 9000
+MD5sum: 7fd09580312b46442c65f6bc78e8760d
+SHA1: 1ef332c177c4e3e53e08c0c38af0fabeefbcc599
+SHA256: 922271b0474005ae4920c6947d0470fa96e77c7e5a4df9bce1dd0f43e6742572
+Section: Terminal Support
+Description: Command-line tool to play audio files (playback is done by the SpringBoard though).
+Author: ArtikusHG
+Name: playcli
+
 Package: com.flobul.batterydata
 Version: 0.1.0-3+debug
 Architecture: iphoneos-arm
