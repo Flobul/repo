@@ -78,6 +78,22 @@ Description: A command line tool to send notifications.
 Author: Flobul <flobul.jeedom@gmail.com>
 Name: notifyme
 
+Package: com.flobul.play
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Installed-Size: 260
+Filename: debs/com.flobul.play_1.0_iphoneos-arm.deb
+Size: 7880
+MD5sum: 9f3935df3957a78fbe8cdd6ef1ffefe1
+SHA1: 49eadaba700de0a3aab32c2225da2bd36d21b5ca
+SHA256: 921741dc916fb412b0193b4b3acae34d8f19bd5838b372175c350cf72f1dd225
+Section: Utilities
+Description: Command line tools to interact with iOS
+Tag: role::hacker
+Author: Flobul <flobul.jeedom@gmail.com>
+Name: play
+
 Package: com.flobul.publicationme
 Version: 0.1.0
 Architecture: iphoneos-arm
