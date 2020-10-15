@@ -94,6 +94,22 @@ Tag: role::hacker
 Author: Flobul <flobul.jeedom@gmail.com>
 Name: play
 
+Package: com.flobul.play
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Installed-Size: 260
+Filename: debs/com.flobul.play_1.1_iphoneos-arm.deb
+Size: 9600
+MD5sum: e3cd44a6ac6dc2f62d532edf530716ad
+SHA1: 7dd0558e5ab9259fdfef132a6cd1fcd5d310771d
+SHA256: 47c16109aeb6f9aa2cad5b3fd6bdc117edbf775aecedbf9416a6b69b04236a61
+Section: Utilities
+Description: Command line tools to play audiofile from file or url
+Tag: role::hacker
+Author: Flobul <flobul.jeedom@gmail.com>
+Name: play
+
 Package: com.flobul.publicationme
 Version: 0.1.0
 Architecture: iphoneos-arm
