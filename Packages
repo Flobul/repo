@@ -100,10 +100,10 @@ Architecture: iphoneos-arm
 Maintainer: Flobul <flobul.jeedom@gmail.com>
 Installed-Size: 260
 Filename: debs/com.flobul.play_1.1_iphoneos-arm.deb
-Size: 9600
-MD5sum: e3cd44a6ac6dc2f62d532edf530716ad
-SHA1: 7dd0558e5ab9259fdfef132a6cd1fcd5d310771d
-SHA256: 47c16109aeb6f9aa2cad5b3fd6bdc117edbf775aecedbf9416a6b69b04236a61
+Size: 9282
+MD5sum: 816bc8b1fd29323d0943ba7baf92a6b6
+SHA1: d5723eee954a6f6e5fbcfaee66998fe54274a13b
+SHA256: f9bc5a14b2052b3197ead2b5c5867317d8a61977b32f65465b11805d8f914b73
 Section: Utilities
 Description: Command line tools to play audiofile from file or url
 Tag: role::hacker
